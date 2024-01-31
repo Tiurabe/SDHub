@@ -2,6 +2,7 @@
   {
     "name": "AnimagineXL",
     "type": "model",
+    "download_url": "https://civitai.com/api/download/models/293564?type=Model&format=SafeTensor&size=full&fp=fp32",
     "format": "safetensors",
     "info": {
       "source": "https://civitai.com/models/260267/",
@@ -13,6 +14,7 @@
   {
     "name": "YamersAnime",
     "type": "model",
+    "download_url": "https://civitai.com/api/download/models/269502?type=Model&format=SafeTensor&size=full&fp=fp16",
     "format": "safetensors",
     "info": {
       "source": "https://civitai.com/models/76489",
